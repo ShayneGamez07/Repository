@@ -19,9 +19,19 @@ namespace DinoPark
     /// </summary>
     public partial class MainWindow : Window
     {
+        private DinoParc _brugesParc;
+        private DinoParc _kortrijkParc;
+        private readonly Random _random = new();
         public MainWindow()
         {
             InitializeComponent();
+
+
+            _brugesParc = new DinoParc("Dinos' GoWest Bruges", true);
+            _kortrijkParc = new DinoParc("Dino's GoWest Kortrijk", false);
+
+            lstDinosaurBruges.ItemsSource = _brugesParc.Dinosaurs;
+            lstDinosaurKortrijk.ItemsSource = _kortrijkParc.Dinosaurs;
         }
         private void TglSedateYesNo_Click(object sender, RoutedEventArgs e)
         {
@@ -52,12 +62,17 @@ namespace DinoPark
             }
         }
 
-        private void btnFeedBruges_Click(object sender, RoutedEventArgs e)
+        private void BtnFeedBruges_Click(object sender, RoutedEventArgs e)
+        {
+            FeedParc(_brugesParc, "Bruges");
+        }
+
+        private void btnMoveRight_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnFeedKortrijk_Click(object sender, RoutedEventArgs e)
+        private void btnMoveLeft_Click(object sender, RoutedEventArgs e)
         {
 
         }
