@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DinoPark.Core/DinoPark.Core.csproj" />
+  <Project Path="DinoPark/DinoPark.WPF.csproj" />
+</Solution>
