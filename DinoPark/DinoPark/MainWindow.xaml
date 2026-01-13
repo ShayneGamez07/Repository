@@ -1,0 +1,21 @@
+﻿<Window x:Class="DinoPark.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DinoPark"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="560" Width="820">
+    <Grid>
+        <ListBox x:Name="lstDinosaurBruges" HorizontalAlignment="Left" Height="308" Margin="17,0,0,0" VerticalAlignment="Center" Width="323"/>
+        <ListBox x:Name="lstDinosaurKortrijk" HorizontalAlignment="Left" Height="308" Margin="435,0,0,0" VerticalAlignment="Center" Width="345"/>
+        <Button x:Name="btnMoveRight" Content="→" HorizontalAlignment="Left" Margin="353,223,0,0" VerticalAlignment="Top" FontSize="30" Width="69"/>
+        <Button x:Name="btnMoveLeft" Content="←" HorizontalAlignment="Left" Margin="353,171,0,0" VerticalAlignment="Top" FontSize="30" Width="69"/>
+        <Label x:Name="lblWarning" Content="" HorizontalAlignment="Left" Margin="18,438,0,0" VerticalAlignment="Top" Height="77" Width="760" FontSize="15"/>
+        <ToggleButton x:Name="tglSedateYesNo" Content="Verdoofd / Wakker" Margin="293,30,0,464"  HorizontalAlignment="Left" Width="182" Click="TglSedateYesNo_Click" />
+        <Button x:Name="btnFeedBruges" Content="Geef voedsel in Brugge" HorizontalAlignment="Left" Margin="59,33,0,0" VerticalAlignment="Top" Height="37" Width="147" Click="btnFeedBruges_Click"/>
+        <Button x:Name="btnFeedKortrijk" Content="Geef voedsel in Kortrijk" HorizontalAlignment="Left" Margin="577,29,0,0" VerticalAlignment="Top" Height="37" Width="147" Click="btnFeedKortrijk_Click"/>
+        <Label Content="Dinos' GoWest Bruges" HorizontalAlignment="Left" Margin="112,93,0,0" VerticalAlignment="Top" Background="White"/>
+        <Label Content="Dinos' GoWest Kortrijk" HorizontalAlignment="Left" Margin="562,93,0,0" VerticalAlignment="Top" Background="White"/>
+    </Grid>
+</Window>
