@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7160AE2E-1C3E-44E5-9762-E4E9A820489B}|DinoPark.Core\\DinoPark.Core.csproj|c:\\users\\shayn\\onedrive\\documenten\\persoonlijk\\my creations\\dinopark\\dinopark\\dinopark.core\\classes\\dinosaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7160AE2E-1C3E-44E5-9762-E4E9A820489B}|DinoPark.Core\\DinoPark.Core.csproj|solutionrelative:dinopark.core\\classes\\dinosaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9067A01-F340-4423-8D60-F46D35671005}|DinoPark\\DinoPark.csproj|c:\\users\\shayn\\onedrive\\documenten\\persoonlijk\\my creations\\dinopark\\dinopark\\dinopark\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9067A01-F340-4423-8D60-F46D35671005}|DinoPark\\DinoPark.csproj|solutionrelative:dinopark\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9067A01-F340-4423-8D60-F46D35671005}|DinoPark\\DinoPark.csproj|c:\\users\\shayn\\onedrive\\documenten\\persoonlijk\\my creations\\dinopark\\dinopark\\dinopark\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B9067A01-F340-4423-8D60-F46D35671005}|DinoPark\\DinoPark.csproj|solutionrelative:dinopark\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7160AE2E-1C3E-44E5-9762-E4E9A820489B}|DinoPark.Core\\DinoPark.Core.csproj|c:\\users\\shayn\\onedrive\\documenten\\persoonlijk\\my creations\\dinopark\\dinopark\\dinopark.core\\classes\\dinosaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7160AE2E-1C3E-44E5-9762-E4E9A820489B}|DinoPark.Core\\DinoPark.Core.csproj|solutionrelative:dinopark.core\\classes\\dinosaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7160AE2E-1C3E-44E5-9762-E4E9A820489B}|DinoPark.Core\\DinoPark.Core.csproj|c:\\users\\shayn\\onedrive\\documenten\\persoonlijk\\my creations\\dinopark\\dinopark\\dinopark.core\\enums\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,19 +63,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T14:01:49.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IOmnivore.cs",
-              "DocumentMoniker": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark.Core\\Interface\\IOmnivore.cs",
-              "RelativeDocumentMoniker": "DinoPark.Core\\Interface\\IOmnivore.cs",
-              "ToolTip": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark.Core\\Interface\\IOmnivore.cs",
-              "RelativeToolTip": "DinoPark.Core\\Interface\\IOmnivore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T13:54:18.77Z",
               "EditorCaption": ""
             },
             {
@@ -119,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Dinosaur.cs",
               "DocumentMoniker": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark.Core\\Classes\\Dinosaur.cs",
               "RelativeDocumentMoniker": "DinoPark.Core\\Classes\\Dinosaur.cs",
@@ -132,27 +119,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DinoPark\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark\\MainWindow.xaml",
-              "RelativeToolTip": "DinoPark\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark\\MainWindow.xaml*",
+              "RelativeToolTip": "DinoPark\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-13T13:45:58.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DinoPark\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark\\MainWindow.xaml.cs",
               "RelativeToolTip": "DinoPark\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAhwB0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwJUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T13:45:57.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOmnivore.cs",
+              "DocumentMoniker": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark.Core\\Interface\\IOmnivore.cs",
+              "RelativeDocumentMoniker": "DinoPark.Core\\Interface\\IOmnivore.cs",
+              "ToolTip": "C:\\Users\\shayn\\OneDrive\\Documenten\\Persoonlijk\\My Creations\\DinoPark\\DinoPark\\DinoPark.Core\\Interface\\IOmnivore.cs",
+              "RelativeToolTip": "DinoPark.Core\\Interface\\IOmnivore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:54:18.77Z",
               "EditorCaption": ""
             },
             {
@@ -167,10 +171,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T13:53:51.071Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

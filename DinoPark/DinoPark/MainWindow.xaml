@@ -15,7 +15,7 @@
         <ToggleButton x:Name="tglSedateYesNo" Content="Verdoofd / Wakker" Margin="293,30,0,464"  HorizontalAlignment="Left" Width="182" Click="TglSedateYesNo_Click" />
         <Button x:Name="btnFeedBruges" Content="Geef voedsel in Brugge" HorizontalAlignment="Left" Margin="59,33,0,0" VerticalAlignment="Top" Height="37" Width="147" Click="BtnFeedBruges_Click"/>
         <Button x:Name="btnFeedKortrijk" Content="Geef voedsel in Kortrijk" HorizontalAlignment="Left" Margin="577,29,0,0" VerticalAlignment="Top" Height="37" Width="147" Click="BtnFeedKortrijk_Click"/>
-        <Label Content="Dinos' GoWest Bruges" HorizontalAlignment="Left" Margin="112,93,0,0" VerticalAlignment="Top" Background="White"/>
-        <Label Content="Dinos' GoWest Kortrijk" HorizontalAlignment="Left" Margin="562,93,0,0" VerticalAlignment="Top" Background="White"/>
+        <Label Content="Dinos' GoWest Bruges" HorizontalAlignment="Left" Margin="112,93,0,0" VerticalAlignment="Top" Background="White" RenderTransformOrigin="0.498,-0.071" Height="25"/>
+        <Label Content="Dinos' GoWest Kortrijk" HorizontalAlignment="Left" Margin="562,93,0,0" VerticalAlignment="Top" Background="White" Height="25"/>
     </Grid>
 </Window>
