@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DinoPark.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c562fa9d635d0eee068dd4b16d828f3264fff8c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+028d694c4667fca6fac2bfe000b46052722bace0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DinoPark.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DinoPark.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

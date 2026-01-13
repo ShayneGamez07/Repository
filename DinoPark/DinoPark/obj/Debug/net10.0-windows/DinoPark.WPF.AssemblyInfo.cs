@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DinoPark.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ab7196cc94a77d2556ed7a2d4aa6850aab8aa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+028d694c4667fca6fac2bfe000b46052722bace0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DinoPark.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DinoPark.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
